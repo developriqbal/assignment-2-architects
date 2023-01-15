@@ -47,3 +47,45 @@ ul li>a {
     text-decoration: none;
     color: black;
 }
+
+/* hero-styles  */
+
+.section__container {
+    width: 100%;
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.hero__text {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.section__title {
+    font-size: 60px;
+    padding: 10px;
+    margin: 100px 0 0 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.btn__style {
+    padding: 10px 15px;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    font-size: 17px;
+    background-color: #FF900E;
+    margin: 15px 0;
+}
+
+.banner__image {
+    width: 100%;
+    /* padding:15px 20px; */
+}
+
