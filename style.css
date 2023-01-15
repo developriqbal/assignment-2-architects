@@ -335,3 +335,20 @@ a {
     margin: 70px 0;
 }
 
+/* footer style  */
+
+.footer__section {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background-color: #ff900e1a;
+    margin: 50px;
+
+}
+
+.hide {
+    display: none;
+}
+
