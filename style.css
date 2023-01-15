@@ -407,6 +407,10 @@ a {
     .section__title{
         font-size: 40px;
     }
+    .logos img{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
     
 
 }
