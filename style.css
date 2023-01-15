@@ -285,3 +285,53 @@ a {
     color: #727272;
 }
 
+.hire__us__section{
+    text-align: center;
+    margin-top: 100px;
+}
+.reasons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+   
+
+}
+
+.reason__box img{
+    width: 30%;
+}
+.reason__box h3{
+    padding: 10px 0;
+
+}
+.reason__box{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 2px lightgray;
+    /* background-color: lightgray; */
+    
+}
+/* sponsor section styles  */
+.sponsor__section {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.logos img {
+    width: 16%;
+    filter: grayscale(1);
+}
+
+.logos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 70px 0;
+}
+
