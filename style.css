@@ -89,3 +89,46 @@ a {
     /* padding:15px 20px; */
 }
 
+
+/* features section styles  */
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+    margin-top: 80px;
+}
+
+.grid__section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.grid__section img {
+    width: 100%;
+}
+
+.feature__text {
+    width: 500px;
+    height: 300px;
+}
+
+.secondary__title {
+    font-size: 40px;
+    padding: 20px 0;
+}
+
+.yellow__color {
+    color: #FF900E;
+    font-weight: 800;
+}
+
+.grayish__color {
+    color: #727272;
+    font-weight: 700;
+}
+
+/* More-features-styles  */
+
